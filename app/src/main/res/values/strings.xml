@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LiveDataKT</string>
+    <string name="work">Trabajo en casa</string>
+    <string name="no">No</string>
+    <string name="yes">Si</string>
+    <string name="workAnswer">trabajo en casa</string>
+    <string name="pass">Voy a aprobar</string>
+    <string name="passAnswer">voy a aprobar</string>
+    <string name="have">Tengo</string>
+    <string name="age">tengo</string>
+</resources>
